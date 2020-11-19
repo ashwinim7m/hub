@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23250" started-at="2020-11-19T12:03:01Z" finished-at="2020-11-19T12:03:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13230" started-at="2020-11-19T12:03:01Z" finished-at="2020-11-19T12:03:14Z">
+      <class name="com.hubspot.Hubspot.ScrollTo">
+        <test-method status="PASS" signature="initilizeWebDriver()[pri:0, instance:com.hubspot.Hubspot.ScrollTo@604ed9f0]" name="initilizeWebDriver" is-config="true" duration-ms="12703" started-at="2020-11-19T12:03:01Z" finished-at="2020-11-19T12:03:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilizeWebDriver -->
+        <test-method status="PASS" signature="mains()[pri:0, instance:com.hubspot.Hubspot.ScrollTo@604ed9f0]" name="mains" duration-ms="113" started-at="2020-11-19T12:03:14Z" finished-at="2020-11-19T12:03:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mains -->
+        <test-method status="PASS" signature="exitBrowser()[pri:0, instance:com.hubspot.Hubspot.ScrollTo@604ed9f0]" name="exitBrowser" is-config="true" duration-ms="389" started-at="2020-11-19T12:03:14Z" finished-at="2020-11-19T12:03:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitBrowser -->
+      </class> <!-- com.hubspot.Hubspot.ScrollTo -->
+    </test> <!-- Test -->
+    <test name="Test2" duration-ms="9870" started-at="2020-11-19T12:03:14Z" finished-at="2020-11-19T12:03:24Z">
+      <class name="com.hubspot.Hubspot.RegisterDemo">
+        <test-method status="PASS" signature="initilizeWebDriver()[pri:0, instance:com.hubspot.Hubspot.RegisterDemo@6500df86]" name="initilizeWebDriver" is-config="true" duration-ms="4607" started-at="2020-11-19T12:03:14Z" finished-at="2020-11-19T12:03:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilizeWebDriver -->
+        <test-method status="PASS" signature="mains()[pri:0, instance:com.hubspot.Hubspot.RegisterDemo@6500df86]" name="mains" duration-ms="4799" started-at="2020-11-19T12:03:19Z" finished-at="2020-11-19T12:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mains -->
+        <test-method status="PASS" signature="exitBrowser()[pri:0, instance:com.hubspot.Hubspot.RegisterDemo@6500df86]" name="exitBrowser" is-config="true" duration-ms="460" started-at="2020-11-19T12:03:24Z" finished-at="2020-11-19T12:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitBrowser -->
+      </class> <!-- com.hubspot.Hubspot.RegisterDemo -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
